@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "5N4VB4QDJK.com.bidbud.app",
+                "paths": [ "*"]
+            }
+        ]
+    }
+}
